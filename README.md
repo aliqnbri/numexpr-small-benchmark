@@ -19,7 +19,8 @@ When does it matter most?
 ✅ Complex mathematical expressions
 ✅ Memory-constrained environments
 
-Full code + results on GitHub: [https://github.com/aliqnbri/numexpr-small-benchmark]
+
 
 #Python #DataScience #MachineLearning #NumPy #Performance #OpenSource
 
+=======================================================
